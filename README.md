@@ -1,13 +1,13 @@
 
 
-<h1 align="center"> ༺𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡༻ </h1> 
+<h1 align="center"> ༺MADARA MD༻ </h1> 
 <p align="center"> Introducing Beltah md, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 [![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+WASI+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
 
 
 <p align="center">
-  <a href="https://github.com/Beltah/beltah-md">
+  <a href="https://github.com/Bryant&Arcane/Madara Md">
     <img alt="venocyber docs" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
   </a>
 </p>
@@ -18,12 +18,12 @@
   <a href="https://wa.me/+254114141192?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Beltah-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
-  <a aria-label="Beltah md is free to use" href="https://github.com/Beltah/beltah-md" target="_blank">
-    <img alt="Beltahtech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="MADARA is free to use" href="https://github.com/Beltah/beltah-md" target="_blank">
+    <img alt="Brayant tech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{beltahmd}/count.svg" alt="BELTAH-MD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MADARA MD}/count.svg" alt="MADARA MD :: Visitor's Count" /></p>
 ---
 
 
@@ -75,7 +75,7 @@
 
 
 
-<h3>Beltah-MD Stats</h3>
+<h3>MADARA MD Stats</h3>
 
 ![Beltah-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=wasixd&repo=WASI-MD&show_owner=true&theme=dark)
 
