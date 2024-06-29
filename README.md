@@ -1,14 +1,14 @@
 
 
-<h1 align="center"> ༺MADARA_MD-V3༻ </h1> 
+<h1 align="center"> ༺MADARA_MDV3༻ </h1> 
 <p align="center"> Introducing MADARA_MD-V3, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy thanks to bryantech and Arcane  </p>
 
-[![Bryant tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;I+am+MADARA+MD+MADE+BY+Bryan+tech+and+Arcane+admin+founder+of+this;project;and+creator+too;i)](https://github.com/Kingjux)
+[![Bryant tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;I+am+MADARA+MD+MADE+BY+Bryant+tech+and+Arcane+admin+founder+of+this;project;and+creator+too;i)](https://github.com/Kingjux)
 
 
 <p align="center">
   <a href="https://github.com/Arcanedream77/MADARA_MD-V3">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
+    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/55551f6f89dae1180f554.jpg">
   </a>
 </p>
     
